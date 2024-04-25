@@ -1,0 +1,41 @@
+.fst img{
+    height: 100vh;
+    width: 100vh;
+}
+.sec{
+    background-color: aquamarine;
+    text-align: center;
+    
+}
+.sec h1{
+    font-family: cursive;
+    color: purple;
+}
+.bird{
+margin-top: 5vh;
+border: 5px solid black;
+width: 60vh;
+margin-left: 15vh;
+background-color:lightcoral;
+
+
+
+}
+.bird input{
+    margin-bottom: 2vh;
+    border-radius: 5px;
+}
+button{
+    background-color: green;
+}
+form input{
+    margin-top: 3vh;
+}
+.sec a{
+    text-decoration: none;
+    color: blue;
+}
+.set{
+    margin-bottom: 5vh;
+}
+   

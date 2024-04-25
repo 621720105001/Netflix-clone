@@ -1,0 +1,42 @@
+form{
+    border: 2px solid black;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    height: 70vh;
+    width: 60vh;
+    background-color: rgba(0,0,0,0.7);
+    margin-left: 75vh;
+    margin-top: 20vh;
+}
+.Id h1{
+    color: black;
+    
+}
+.Id input{
+    margin-bottom: 2vh;
+    height: 5vh;
+}
+form input{
+    margin-top: 3vh;
+    
+}
+button{
+    background-color: red;
+}
+.meet button{
+    background-color: white;
+    border: 4px;
+}
+.set {
+     margin-top: 3vh;
+     text-decoration: none;
+     color: white;
+     font-size: 18px;
+     height: 5vh;
+}
+body{
+    background-image: url(images/3056129.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
